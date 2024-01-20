@@ -42,7 +42,7 @@ class MainActivity : ComponentActivity() {
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
                     Column {
                         Greeting("INF2007")
-                        From(name = "Michael")
+                        From(name = "Elon Musk")
                     }
 
                 }
